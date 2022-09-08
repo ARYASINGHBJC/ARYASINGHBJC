@@ -5,8 +5,7 @@ Hi there 👋I'm Arya.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Backend Development.
-- 🌱 I’m currently learning Data Science and GraphQL.
+- 🔭 I’m currently working on Full Stack Web Development.
 
 <!--
 - 👯 I’m looking to collaborate on ...
