@@ -11,6 +11,7 @@ Here are some ideas to get you started:
   </p>
 <h3>My Skills</h3>
 <pre>
+
 Language/
 ├── Python
 ├── JavaScript
