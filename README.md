@@ -15,6 +15,7 @@ Language/
 ├── Python
 ├── JavaScript
 
+
 Front-end Technologies/
 ├── HTML
 ├── CSS
@@ -23,21 +24,25 @@ Front-end Technologies/
 ├──  Bootstrap
 ├── JSON
 
+
 Back-end Technologies/
 ├── Node.js
 ├── Express.js
 ├── Django
 ├── Web Services(REST)
 
+
 Databases/
 ├── MySQL
 ├── PostgreSQL
 ├── MongoDB
 
+
 Tools/
 ├── Git
 ├── Postman
 ├── VS Code
+
 
 CS Fundamentals/
 ├── Operating System
