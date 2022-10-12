@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 <section>
   <p>
-   😄 I'm interested in Single Page Web Application, Data Science and IT Automation.
+   😄 I'm interested in Full Stack Web Development and Data Science.
   </p>
   
  [![@aryasinghbjc's Holopin board](https://holopin.me/aryasinghbjc)](https://holopin.io/@aryasinghbjc)
