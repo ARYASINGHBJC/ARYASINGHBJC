@@ -9,6 +9,9 @@ Here are some ideas to get you started:
   <p>
    😄 I'm interested in Single Page Web Application, Data Science and IT Automation.
   </p>
+  
+ [![@aryasinghbjc's Holopin board](https://holopin.me/aryasinghbjc)](https://holopin.io/@aryasinghbjc)
+ 
 <h3>My Skills</h3>
 <pre>
 
