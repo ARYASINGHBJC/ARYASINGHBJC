@@ -9,7 +9,7 @@ Here are some ideas to get you started:
   <p>
    😄 I'm interested in Full Stack Web Development and Data Science.
   </p>
-  
+
 [![@aryasinghbjc's Holopin board](https://holopin.me/aryasinghbjc)](https://holopin.io/@aryasinghbjc)
 
 <h3>My Skills</h3>
