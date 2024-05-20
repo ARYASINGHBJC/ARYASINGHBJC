@@ -34,14 +34,12 @@ Front-end Technologies/
 ├── CSS
 ├── SASS
 ├── React
-├──  Bootstrap
 ├── JSON
 
 
 Back-end Technologies/
 ├── Node.js
 ├── Express.js
-├── Django
 ├── Web Services(REST)
 
 
