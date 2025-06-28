@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 Language/
 ├── Python
 ├── JavaScript
+├── Java
+├── SQL
 
 
 Front-end Technologies/
@@ -48,12 +50,24 @@ Databases/
 ├── PostgreSQL
 ├── MongoDB
 
+ETL Tools/
+├── AWS(Lambda, Step Functions, S3, EC2, Fargate, VPC, SQS, API Gateway, Eventbridge, Cloudwatch) 
 
 Tools/
 ├── Git
 ├── Postman
 ├── VS Code
 
+ETL Tools/
+├── Matillion
+├── AWS Glue
+
+ETL Tools/
+├── PySpark
+├── Hadoop
+├── Hive
+├── YARN
+├── HDFS
 
 CS Fundamentals/
 ├── Operating System
