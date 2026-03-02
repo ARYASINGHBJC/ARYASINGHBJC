@@ -11,6 +11,7 @@ Here are some ideas to get you started:
   </p>
   
 [![@aryasinghbjc's Holopin board](https://holopin.me/aryasinghbjc)](https://holopin.io/@aryasinghbjc)
+<a href = "https://aryasingh.vercel.app/"> Portfolio </a>
 <section>
 <b>My GitHub Stats</b>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ARYASINGHBJC&label=Profile%20views&color=0e75b6&style=flat" alt="aryasinghbjc" /> </p>
